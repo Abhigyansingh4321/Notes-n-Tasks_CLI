@@ -12,7 +12,8 @@ A small terminal dashboard written in Bash.
 ## Run
 
 ```bash
-cd "/mnt/c/Users/abhig/Documents/GitHub/Cool-CUI-Tool"
+git clone https://github.com/YOUR_USERNAME/cool-cui-tool.git
+cd cool-cui-tool
 bash cool-cui.sh
 ```
 
