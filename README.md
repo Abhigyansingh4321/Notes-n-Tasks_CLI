@@ -1,18 +1,18 @@
 # Cool CUI Tool
 
-A small terminal dashboard written in Bash.
+A small terminal based Notes and tasks app written in Bash.
 
 ## Features
 
-- Live-style dashboard with a clean ANSI layout
-- Quick actions for notes, tasks, and commands
-- Minimal dependency footprint
+- Dashboard with a clean ANSI layout
+- Features to add notes, tasks, and commands
+- Very less dependency footprint
 - Works in any Bash shell
 
 ## Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cool-cui-tool.git
+git clone https://github.com/Abhigyansingh4321/cool-cui-tool.git
 cd cool-cui-tool
 bash cool-cui.sh
 ```
